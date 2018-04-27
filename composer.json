@@ -1,0 +1,21 @@
+{
+  "name": "guilhermehideki/sql",
+  "description": "SQL Helper",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guilherme Danno",
+      "email": "Guilherme.danno@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GuilhermeHideki\\Database\\SQL\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "require": {}
+}
